@@ -46,10 +46,6 @@ The correlation between variables was computed using three methods:
 2. **Income Inequality and Standard Deviation of Satisfaction:**
    - Pearson Correlation: 0.22
 
-## Project Structure
-
-. ├── Correlation-Analysis.ipynb # Jupyter Notebook for analysis ├── happyscore_income.csv # Dataset └── README.md # Project documentation
-
 ## Insights
 
 - There is a strong positive correlation between GDP and happiness scores across countries.
